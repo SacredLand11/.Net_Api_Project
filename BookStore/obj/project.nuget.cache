@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "chAyxo0HEVCIcpneqNoNHx9afJtHSZVwMAMMih4hSfBEwNEvmKw7hOHDrhNmIXqWPPmnJYI42/r5H9zIlJO2sw==",
+  "dgSpecHash": "vLPfRhSeXjuJJArtKPnFZqh5S6AGHtW2X9NnPsQbY2IsKDJR27d9LcGH96x4ypFJMOLuKRRqW7jIAR2Pt6Venw==",
   "success": true,
   "projectFilePath": "C:\\Users\\aydin\\Desktop\\Yeni\\BookStore\\BookStore\\BookStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aydin\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\aydin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\aydin\\.nuget\\packages\\fluentvalidation\\10.1.0\\fluentvalidation.10.1.0.nupkg.sha512",
     "C:\\Users\\aydin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\aydin\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.6\\microsoft.entityframeworkcore.5.0.6.nupkg.sha512",
     "C:\\Users\\aydin\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.6\\microsoft.entityframeworkcore.abstractions.5.0.6.nupkg.sha512",
