@@ -32,3 +32,7 @@ C:\Users\aydin\Desktop\Yeni\BookStore\BookStore\bin\Debug\net5.0\Microsoft.Entit
 C:\Users\aydin\Desktop\Yeni\BookStore\BookStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
 C:\Users\aydin\Desktop\Yeni\BookStore\BookStore\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\aydin\Desktop\Yeni\BookStore\BookStore\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aydin\Desktop\Yeni\BookStore\BookStore\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\aydin\Desktop\Yeni\BookStore\BookStore\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\aydin\Desktop\Yeni\BookStore\BookStore\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\aydin\Desktop\Yeni\BookStore\BookStore\bin\Debug\net5.0\Newtonsoft.Json.dll
